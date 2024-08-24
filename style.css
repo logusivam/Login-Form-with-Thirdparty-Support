@@ -114,7 +114,7 @@ body
 
 .login_field
 {
-    padding: 20px 5px;
+    padding: 20px 0px;
     position: relative;
 }
 
@@ -133,6 +133,7 @@ body
     border-bottom: 2px solid #d1d104;
     background: none;
     padding: 10px;
+    padding-right: 25px;
     padding-left: 24px;
     font-weight: 700;
     width: 80%;
