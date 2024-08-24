@@ -42,4 +42,35 @@ body
     top: 0;
     left: 0;
     right: 0;
+    bottom: 0;
+    z-index: 0;
+    -webkit-clip-path: inset(0 0 0 0);
+    clip-path: inset(0 0 0 0);
+}
+
+.screen_background_shape
+{
+    transform: rotate(45deg);
+    position: absolute;
+}
+
+/* white shape in the login form */
+.screen_background_shape1
+{
+    height: 520px;
+    width: 520px;
+    background: #fff;
+    top: -50px;
+    right: 120px;
+    border-radius: 0 72px 0 0;
+}
+
+.screen_background_shape2
+{
+    background-color: #6c63ac;
+    height: 220px;
+    width: 220px;
+    top: -172px;
+    right: 0;
+    
 }
