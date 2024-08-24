@@ -127,10 +127,10 @@ body
     border: none;
     border-bottom: 2px solid #d1d104;
     background: none;
-    padding: 10px;padding-right: 25px;
+    padding: 10px; padding-right: 25px;
     padding-left: 24px;
     font-weight: 700;
-    width: 75%;
+    width: 80%;
     transition: .2s;
 }
 
