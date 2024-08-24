@@ -22,7 +22,7 @@ body
 /* login form bg start */
 .screen
 {
-    background: linear-gradient(90deg, #5d54a4, #7c7888);
+    background: linear-gradient(90deg, #5d54a4, #7c78b8);
     position: relative;
     height: 600px;
     width: 360px;
@@ -121,7 +121,7 @@ body
     color: #787585;
 }
 
-/* input */
+/* input fields */
 .login_input
 {
     border: none;
@@ -129,4 +129,23 @@ body
     background: none;
     padding: 10px;
     padding-left: 24px;
+    font-weight: 700;
+    width: 75%;
+    transition: .2s;
+}
+
+/* input fields effect */
+.login_input:active,
+.login_input:focus,
+.login_input:hover
+{
+    outline: none;
+    border-bottom-color: #6a679e;
+}
+
+.login_submit
+{
+    background: #fff;
+    font-size: 14px;
+    
 }
