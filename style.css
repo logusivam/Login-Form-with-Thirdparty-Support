@@ -181,7 +181,7 @@ body
     font-size: 24px;
     margin-left: 5px;
     color: #7875b5;
-    transition: .2s;
+    transition: transform .2s ease;
 }
 
 /* social icons */
