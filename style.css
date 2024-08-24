@@ -90,4 +90,9 @@ body
 .screen_background_shape4
 {
     background: #7e7889;
+    height: 400px;
+    width: 200px;
+    top: 420px;
+    right: 50px;
+    border-radius: 60px;
 }
