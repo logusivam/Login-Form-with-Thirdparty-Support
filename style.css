@@ -128,6 +128,7 @@ body
     border-bottom: 2px solid #d1d104;
     background: none;
     padding: 10px;
+    padding-right: 25px;
     padding-left: 24px;
     font-weight: 700;
     width: 80%;
@@ -139,6 +140,17 @@ body
 {
     position: absolute;
     right: 50px;
+    cursor: pointer;
+}
+
+#hideshow:hover
+{
+    color: #c7c5f4;
+}
+
+#hideshow.fa-eye-slash:hover
+{
+   color: #4c4890; 
 }
 /* input fields effect */
 .login_input:active,
