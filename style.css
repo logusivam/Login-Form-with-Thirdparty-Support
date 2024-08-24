@@ -172,12 +172,16 @@ body
     outline: none;
 }
 
-/* button chevron icon */
+.login_submit:hover .button_icon
+{
+    margin-left: auto;
+}
 .button_icon
 {
     font-size: 24px;
-    margin-left: auto;
+    margin-left: 5px;
     color: #7875b5;
+    transition: 0.5s;
 }
 
 /* social icons */
