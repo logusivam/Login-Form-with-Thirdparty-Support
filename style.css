@@ -174,14 +174,14 @@ body
 
 .login_submit:hover .button_icon
 {
-    transform: translateX(200px);
+    transform: translateX(150px);
 }
 .button_icon
 {
     font-size: 24px;
     margin-left: 5px;
     color: #7875b5;
-    transition: transform .2s ease;
+    transition: transform .3s ease;
 }
 
 /* social icons */
