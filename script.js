@@ -10,4 +10,4 @@ eyeIcon.addEventListener('click', function()
     /* toggle the eye icon*/
     this.classList.toggle('fa-eye');
     this.classList.toggle('fa-eye-slash');
-})
+});

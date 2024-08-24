@@ -134,6 +134,12 @@ body
     transition: .2s;
 }
 
+/* eye icon */
+#hideshow
+{
+    position: absolute;
+    right: 65px;
+}
 /* input fields effect */
 .login_input:active,
 .login_input:focus,
