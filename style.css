@@ -97,4 +97,36 @@ body
     right: 50px;
     border-radius: 60px;
 }
+/* shape design end */
 
+/* login details */
+.login
+{
+    width: 320px;
+    padding: 30px;
+    padding-top: 156px;
+}
+
+.login_field
+{
+    padding: 20px 0px;
+    position: relative;
+}
+
+/* login form input icon */
+.login_icon
+{
+    position: absolute;
+    top: 30px;
+    color: #787585;
+}
+
+/* input */
+.login_input
+{
+    border: none;
+    border-bottom: 2px solid #d1d104;
+    background: none;
+    padding: 10px;
+    padding-left: 24px;
+}
