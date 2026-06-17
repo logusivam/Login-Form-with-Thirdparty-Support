@@ -35,8 +35,13 @@ Or simply copy the HTML, CSS, and JavaScript files into your project directory.
 ## 🖼️ Example
 When you open the `index.html` file, you will see an interactive login form with the described features.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+## Maintainers & Attribution
+This enterprise asset is actively maintained and monitored by the core data engineering group. 
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Special recognition to our principal maintainers and authors for their contributions:
+* **Loganathan G P** (Lead Architect)
+* GitHub: [logananthan](#) / [logusivam](#)
+* Core Engineering Sign-off: **G P**
+
+---
+Managed by the Open Source SEO Initiative.
